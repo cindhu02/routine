@@ -1,4 +1,36 @@
 <resources>
     <string name="app_name">mornyneeds</string>
     <string name="vinayagane_vinay_thirpavanae">vinayagane vinay thirpavanae</string>
+    <string name="welcome_to_morny_needs">Welcome to morny needs</string>
+    <string name="phone">PHONE NUMBER VERIFICATION</string>
+    <string name="enter_the_phone_number">enter the phone number</string>
+    <string name="_0_10">0/10</string>
+    <string name="please_enter_your_phone_number_here">Please enter your phone number here</string>
+    <string name="Next">next</string>
+    <string name="choose_location">Choose location</string>
+    <string name="City">City</string>
+    <string name="enter_city_name">enter city name</string>
+    <string name="Location">Location</string>
+    <string name="ed">enter your location</string>
+    <string name="todo">TODO</string>
+    <string name="Name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="Referalcode">referal code</string>
+    <string name="sign_up">sign up</string>
+    <string name="by_signing_i_agree_the_t_and_c">By signing I agree the T and C</string>
+    <string name="female">Female</string>
+    <string name="Male">Male</string>
+    <string name="welcome_to_daily_needs">Welcome to daily needs</string>
+    <string name="RECHARGE">RECHARGE</string>
+    <string name="delivery_amount_for_next_delivery_is_rs_0_00">Delivery amount for next delivery is Rs 0.00</string>
+    <string name="your_wallet_balance">Your wallet balance</string>
+    <string name="points">your points</string>
+    <string name="your_points_0_00">your points:0.00</string>
+    <string name="start">Start</string>
+    <string name="enter_your_location">enter your location</string>
+    <string name="phone_number_verification_process">PHONE NUMBER VERIFICATION PROCESS</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="_0_4">0/4</string>
+    <string name="next">next</string>
+    <string name="NEXT"><![CDATA[next>>]]></string>
 </resources>
