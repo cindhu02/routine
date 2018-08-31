@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/download"
+    tools:context=".Main7Activity">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:text="@string/products"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/button8"
+        android:layout_alignLeft="@id/button8"
+        android:layout_marginTop="136dp"
+        android:background="@android:color/holo_blue_bright"
+        android:text="@string/milk" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button4"
+        android:layout_marginEnd="121dp"
+        android:layout_marginRight="121dp"
+        android:background="@android:color/holo_red_light"
+        android:text="@string/cheese" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/button10"
+        android:layout_alignLeft="@id/button10"
+        android:layout_marginTop="227dp"
+        android:background="@android:color/holo_green_light"
+        android:text="@string/egg" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/button7"
+        android:layout_alignStart="@+id/button7"
+        android:layout_alignTop="@+id/button8"
+        android:background="@android:color/holo_purple"
+        android:text="@string/bread" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button12"
+        android:layout_alignLeft="@id/button12"
+        android:layout_marginBottom="200dp"
+        android:background="#aaaaaa"
+        android:text="@string/chicken" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/button7"
+        android:layout_alignStart="@+id/button7"
+        android:layout_alignTop="@+id/button10"
+        android:background="@android:color/holo_orange_light"
+        android:text="@string/fish" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="92dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginLeft="55dp"
+        android:background="@android:color/holo_blue_light"
+        android:text="@string/mutton" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/button7"
+        android:layout_alignStart="@+id/button7"
+        android:layout_alignTop="@+id/button12"
+        android:background="@android:color/holo_red_dark"
+        android:text="@string/tiffen" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button4"
+        android:layout_marginEnd="22dp"
+        android:layout_marginRight="22dp"
+        android:text="@string/go" />
+
+
+</RelativeLayout>

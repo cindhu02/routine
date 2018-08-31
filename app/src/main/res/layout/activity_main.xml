@@ -14,18 +14,9 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="149dp"
-        android:text="@string/welcome_to_daily_needs"
+        android:text="@string/welcome_to_morning_needs"
         android:textSize="30sp"
         tools:layout_editor_absoluteX="91dp"
         tools:layout_editor_absoluteY="162dp" />
-
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="206dp"
-        android:text="@string/start" />
 
 </RelativeLayout>

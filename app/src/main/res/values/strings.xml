@@ -15,7 +15,7 @@
     <string name="todo">TODO</string>
     <string name="Name">Name</string>
     <string name="e_mail">E-mail</string>
-    <string name="Referalcode">referal code</string>
+    <string name="referralcode">referral code</string>
     <string name="sign_up">sign up</string>
     <string name="by_signing_i_agree_the_t_and_c">By signing I agree the T and C</string>
     <string name="female">Female</string>
@@ -33,4 +33,22 @@
     <string name="_0_4">0/4</string>
     <string name="next">next</string>
     <string name="NEXT"><![CDATA[next>>]]></string>
+    <string name="morny">Welcome to MORNY NEEDS</string>
+    <string name="welcome_to_morning_needs">welcome to morny needs</string>
+    <string name="dairy">Dairy</string>
+    <string name="milk">MILK</string>
+    <string name="egg">EGG</string>
+    <string name="cheese">CHEESE</string>
+    <string name="bread">BREAD</string>
+    <string name="chicken">CHICKEN</string>
+    <string name="fish">FISH</string>
+    <string name="mutton">MUTTON</string>
+    <string name="tiffen">TIFFEN</string>
+    <string name="products">AVAILABLE PRODUCTS</string>
+    <string name="view_date">view date</string>
+    <string name="rate_our_app_if_you_likd">Rate our app if you likd</string>
+    <string name="rate_morny_needs_if_you_liked_it">rate morny needs if you liked it</string>
+    <string name="submit">SUBMIT</string>
+    <string name="go">go</string>
+    <string name="nex"><![CDATA[next>>>]]></string>
 </resources>

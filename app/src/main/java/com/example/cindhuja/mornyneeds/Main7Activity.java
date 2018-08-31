@@ -6,20 +6,20 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class Main3Activity extends AppCompatActivity {
- Button but4;
+public class Main7Activity extends AppCompatActivity {
+ Button button;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main3);
-        but4= (Button) findViewById(R.id.but4);
-        but4.setOnClickListener(new View.OnClickListener() {
+        setContentView(R.layout.activity_main7);
+        button = (Button) findViewById(R.id.button);
+        button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Main3Activity.this,Main7Activity.class);
-                startActivity(intent);
-
+                Intent i = new Intent(Main7Activity.this,Main8Activity.class);
+                startActivity(i);
             }
         });
+
     }
 }

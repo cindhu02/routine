@@ -6,14 +6,17 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import static com.example.cindhuja.mornyneeds.R.id.but2;
+
 public class Main6Activity extends AppCompatActivity {
 
-    Button button5;
+    Button but2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main6);
-        button5.setOnClickListener(new View.OnClickListener() {
+        but2 = (Button) findViewById(R.id.but2);
+        but2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent i5 = new Intent(Main6Activity.this
